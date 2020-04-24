@@ -1,2 +1,7 @@
 File 1 code content
+
 File 1 content modified by Developer1 without fetch operation
+
+File 1 code content modified by Developer 2 without fetch - this will lead to conflict
+
+Resolved conflict by accepting changes from both the Developers.
